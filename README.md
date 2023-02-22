@@ -12,8 +12,8 @@
 - Select the top 3 most impactful features and interpret their coefficients in plain English.
 - ![Alt text](https://github.com/spockthompson/Supermarket-sales-predictions_Revisited/blob/main/Data/coeffs.png))
 # Tree-Based Model
-- Fit and evaluate your tree-based regression model using your dataframe X_train and X_test data.
-- Extract and visualize the feature importances that your model determined.
+- Fit and evaluate our tree-based regression model using our dataframe X_train and X_test data.
+- Extract and visualize the feature importances that our model determined.
 - Identify the top 5 most important features.
 - ![Alt text](https://github.com/spockthompson/Supermarket-sales-predictions_Revisited/blob/main/Data/importances.png))
 # Serialize Your Best Models with Joblib
