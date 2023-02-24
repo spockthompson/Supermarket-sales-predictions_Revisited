@@ -38,9 +38,9 @@ The item price, store type not being a grocery store, and the item visibility im
 ![Alt text](https://github.com/spockthompson/Supermarket-sales-predictions_Revisited/blob/main/Data/Lime_1.png)
 *Looking at the Lime explanation above we can see that many factors came into play in determining the predicted sales.
 
-The item MRP
-The type of item
-Establishment year
+- The item MRP
+- The type of item
+- Establishment year
 
 ### Choice number 2:
 ![Alt text](https://github.com/spockthompson/Supermarket-sales-predictions_Revisited/blob/main/Data/force_plot_2.png)
@@ -48,6 +48,6 @@ The item price and option of the store being a grocery store impacted to predict
 ![Alt text](https://github.com/spockthompson/Supermarket-sales-predictions_Revisited/blob/main/Data/Lime_2.png)
 *Looking at the Lime explanation above we can see that many factors came into play in determining the predicted sales.
 
-The item MRP
-The type of item
-Establishment year
+- The item MRP
+- The type of item
+- Establishment year
