@@ -1,7 +1,4 @@
 # Supermarket sales predictions_Revisited
- 
-# Task
-- For this assignment, we will revisit our first project to predict supermarket sales. we will apply what we have learned to explain how our models made their predictions.
 
 ## Project 1 Revisited - Part 1: Remaking, Saving, and Explaining Your Models
 - For this part of the project, we will be producing a new version of our final project notebook using the updated tools in sklearn v1.1.
